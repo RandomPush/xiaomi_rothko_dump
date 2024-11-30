@@ -1,0 +1,8 @@
+service vendor.mi_blackbox /vendor/bin/hw/vendor.xiaomi.hardware.mtkblackbox.service
+    class hal
+    user root
+    group system media_rw everybody
+    disabled
+    oneshot
+    interface aidl vendor.xiaomi.hardware.mtkblackbox.IMtkblackboxImpl/default
+

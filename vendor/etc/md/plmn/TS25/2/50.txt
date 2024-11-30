@@ -1,0 +1,6 @@
+25020,Tele2 RU,Tele2
+25099,beeline,beeline
+25002,MegaFon RUS,Megafon
+25001,MTS RUS,MTS RUS
+25027,LETAI,LETAI
+25062,Tinkoff Mobile,Tinkoff

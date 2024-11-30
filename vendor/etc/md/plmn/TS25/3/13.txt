@@ -1,0 +1,5 @@
+313120,ASM ASTCA,ASTCA
+313790,Liberty Mobile,Liberty
+313070,MNSHub,MNSHub
+313380,OptimERA,OptimERA
+313450,Spectrum Mobile,Spectrum

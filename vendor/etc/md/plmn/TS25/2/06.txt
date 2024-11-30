@@ -1,0 +1,4 @@
+20620,BASE,BASE
+20605,BASE,BASE
+20610,Orange B,OBE
+20601,Proximus,Proximus
