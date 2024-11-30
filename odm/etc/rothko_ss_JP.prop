@@ -1,0 +1,10 @@
+# only customized property
+ro.product.odm.cert=A402XM
+ro.product.odm.model=A402XM
+ro.product.odm.device=rothko
+ro.product.odm.name=rothko_jp
+ro.product.odm.brand=Xiaomi
+ro.product.vendor.name=rothko
+ro.product.odm.marketname=rothko
+ro.product.model_for_attestation=A402XM
+ro.product.name_for_attestation=rothko_jp

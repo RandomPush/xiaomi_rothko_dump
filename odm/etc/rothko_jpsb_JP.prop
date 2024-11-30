@@ -1,0 +1,10 @@
+# only customized property
+ro.product.odm.cert=2404YTM1GH
+ro.product.odm.model=2404YTM1GH
+ro.product.odm.device=rothko
+ro.product.odm.name=2404YTM1GH
+ro.product.odm.brand=Xiaomi
+ro.product.vendor.name=rothko_jp
+ro.product.odm.marketname=rothko
+ro.product.model_for_attestation=A402XM
+ro.product.name_for_attestation=rothko_jp

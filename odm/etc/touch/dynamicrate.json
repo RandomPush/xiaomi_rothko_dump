@@ -1,0 +1,8 @@
+{
+     "DynamicRate":{
+          "version":"1.0",
+          "product":"rothko",
+          "DEFAULT":true,
+           "APP":"com.dragon.read"
+      }
+}
