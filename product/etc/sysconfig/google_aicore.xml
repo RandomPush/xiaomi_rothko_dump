@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <!-- AI services open-source network component can bind to AI Core. -->
+    <allow-association target="com.google.android.as.oss" allowed="com.google.android.aicore" />
+    <feature name="com.google.android.feature.AICORE_MT_MT6989" />
+    <feature name="com.google.android.feature.AICORE_MT" />
+
+    <string name="config_defaultOnDeviceIntelligenceService" translatable="false">com.google.android.aicore/com.google.android.apps.aicore.service.isolated.AiCoreIntelligenceService</string>
+    <string name="config_defaultOnDeviceSandboxedInferenceService" translatable="false">com.google.android.aicore/com.google.android.apps.aicore.service.isolated.AiCoreIsolatedService</string>
+    <string name="config_defaultOnDeviceIntelligenceDeviceConfigNamespace" translatable="false">aicore</string>
+</config>
